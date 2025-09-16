@@ -4,11 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
-openpyxl = "*"
-flask = "*"
 flask-cors = "*"
 requests = "*"
+sqlalchemy = "*"
+flask-sqlalchemy = "*"
+pandas = "*"
+openpyxl = "*"
+xlrd = "*"
+chardet = "*"
+flask = "*"
+psycopg2-binary = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
