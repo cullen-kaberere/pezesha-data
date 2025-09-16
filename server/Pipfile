@@ -8,6 +8,7 @@ pandas = "*"
 openpyxl = "*"
 flask = "*"
 flask-cors = "*"
+requests = "*"
 
 [dev-packages]
 
