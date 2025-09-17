@@ -3,6 +3,6 @@ Flask-SQLAlchemy==3.0.5
 Flask-CORS==4.0.0
 python-dotenv==1.0.0
 pandas>=2.2.2
-SQLAlchemy==2.0.19
+SQLAlchemy==2.0.29
 psycopg2-binary==2.9.7
 gunicorn==21.2.0
