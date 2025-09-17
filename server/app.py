@@ -11,7 +11,7 @@ import re
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app) 
+CORS(app, resources={r"/*": {"origins": ["https://your-frontend-domain.com", "http://localhost:3000"]}}) 
 
 # Database config
 DATABASE_URL = os.getenv("DATABASE_URL")
