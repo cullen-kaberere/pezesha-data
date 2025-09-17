@@ -1,4 +1,4 @@
-# Pezesha Technical Test – Software Engineering Intern
+# CSV Manager - Pezesha Technical Test
 
 This is a small full-stack project .
 
